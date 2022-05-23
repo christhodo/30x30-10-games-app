@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "name": "Madden 2022",
+      "description": "frozen, phenoms, chrome",
+      "console": "Playstation, Xbox",
+      "rating": "9"
+    },
+    {
+      "id": "2",
+      "name": "Uncharted",
+      "description": "Court Kings, Rookie Sensations",
+      "console": "Playstation",
+      "rating": "9.5"
+    },
+    {
+      "id": "vVGNixo",
+      "name": "NBA 2k",
+      "description": "Basketball yo",
+      "console": "any",
+      "rating": "8"
+    }
+  ]
+}
